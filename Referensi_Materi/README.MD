@@ -58,4 +58,4 @@ Di bawah ini adalah daftar referensi jurnal / prosiding *open-access* (dapat dia
    *   https://ojs.amikomsolo.ac.id/index.php/semnasa/article/view/934
 3. **Praneswara, A. O. (2023).** *"Perbandingan K-Nearest Neighbors, Support Vector Dan Random Forest Pada Prediksi Medical Cost"*. Indonesian Journal of Computer Science.
    *   **Konteks (Hal. 2035):** Penelitian publik yang memvalidasi perbandingan akurasi ketiga algoritma utama dalam memprediksi biaya, menunjukkan kemampuan SVM, KNN, dan RF dalam mengkategorisasi metrik dataset kesehatan.
-  * https://www.ijcs.net/ijcs/index.php/ijcs/article/view/3298
+   * https://www.ijcs.net/ijcs/index.php/ijcs/article/view/3298
