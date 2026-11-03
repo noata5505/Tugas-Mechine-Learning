@@ -50,11 +50,12 @@ Berikut adalah 5 algoritma klasifikasi yang paling sering jadi andalan untuk ris
 Di bawah ini adalah daftar referensi jurnal / prosiding *open-access* (dapat diakses gratis secara publik) yang dikutip dalam penjelasan di atas. Sangat valid untuk kalian gunakan sebagai daftar pustaka:
 
 1. **Karim, A. A., Prasetyo, M. A., & Saputro, M. R. (2023).** *"Perbandingan Metode Random Forest, K-Nearest Neighbor, dan SVM Dalam Prediksi Akurasi Pertandingan Liga Italia"*. Prosiding Seminar Nasional Teknologi Dan Sains Tahun 2023, Vol. 2, Universitas Nusantara PGRI Kediri.
-   *   **Kutipan tentang KNN (Hal. 379):** *"K-Nearest Neighbor atau disebut juga lazy learner (pembelajar yang malas) mengklasifikasikan data berdasarkan kemiripan atau kedekatan terhadap data lainnya."* 
+   *   **Kutipan tentang KNN (Hal. 378):** *"K-Nearest Neighbor atau disebut juga lazy learner (pembelajar yang malas) mengklasifikasikan data berdasarkan kemiripan atau kedekatan terhadap data lainnya."* 
    *   https://proceeding.unpkediri.ac.id/index.php/stains/article/view/2877
 2. **SEMNASA (Seminar Nasional AMIKOM Surakarta). (2025).** *"Perbandingan Random Forest, K-Nearest Neighbor, Support Vector Machine, dan Multi-Layer Perceptron untuk Deteksi Postur Duduk Berdasarkan Ekstraksi Pose MediaPipe"*. e-ISSN: 3031-5581.
-   *   **Kutipan tentang RF (Hal. 8):** *"Temuan ini mengindikasikan bahwa model ensemble seperti Random Forest lebih stabil dalam menangani variasi fitur pose tubuh dibandingkan metode lainnya."*
-   *   **Kutipan tentang Kekurangan KNN (Hal. 9):** *"Ketergantungan pada kedekatan jarak ini menyebabkan KNN mudah mengalami kesalahan klasifikasi pada pose duduk yang kompleks atau bervariasi."*
-   *   *(Jurnal Publik; dipublikasikan November 2025 (kalender publikasi/akademik maju), bisa diakses).*
+   *   **Kutipan tentang RF (Hal. 33):** *"Temuan ini mengindikasikan bahwa model ensemble seperti Random Forest lebih stabil dalam menangani variasi fitur pose tubuh dibandingkan metode lainnya."*
+   *   **Kutipan tentang Kekurangan KNN (Hal. 35):** *"Ketergantungan pada kedekatan jarak ini menyebabkan KNN mudah mengalami kesalahan klasifikasi pada pose duduk yang kompleks atau bervariasi."*
+   *   https://ojs.amikomsolo.ac.id/index.php/semnasa/article/view/934
 3. **Praneswara, A. O. (2023).** *"Perbandingan K-Nearest Neighbors, Support Vector Dan Random Forest Pada Prediksi Medical Cost"*. Indonesian Journal of Computer Science.
    *   **Konteks (Hal. 2035):** Penelitian publik yang memvalidasi perbandingan akurasi ketiga algoritma utama dalam memprediksi biaya, menunjukkan kemampuan SVM, KNN, dan RF dalam mengkategorisasi metrik dataset kesehatan.
+  * https://www.ijcs.net/ijcs/index.php/ijcs/article/view/3298
