@@ -51,7 +51,7 @@ Di bawah ini adalah daftar referensi jurnal / prosiding *open-access* (dapat dia
 
 1. **Karim, A. A., Prasetyo, M. A., & Saputro, M. R. (2023).** *"Perbandingan Metode Random Forest, K-Nearest Neighbor, dan SVM Dalam Prediksi Akurasi Pertandingan Liga Italia"*. Prosiding Seminar Nasional Teknologi Dan Sains Tahun 2023, Vol. 2, Universitas Nusantara PGRI Kediri.
    *   **Kutipan tentang KNN (Hal. 379):** *"K-Nearest Neighbor atau disebut juga lazy learner (pembelajar yang malas) mengklasifikasikan data berdasarkan kemiripan atau kedekatan terhadap data lainnya."* 
-   *   *(Jurnal Publik; bisa diakses)*
+   *   https://proceeding.unpkediri.ac.id/index.php/stains/article/view/2877
 2. **SEMNASA (Seminar Nasional AMIKOM Surakarta). (2025).** *"Perbandingan Random Forest, K-Nearest Neighbor, Support Vector Machine, dan Multi-Layer Perceptron untuk Deteksi Postur Duduk Berdasarkan Ekstraksi Pose MediaPipe"*. e-ISSN: 3031-5581.
    *   **Kutipan tentang RF (Hal. 8):** *"Temuan ini mengindikasikan bahwa model ensemble seperti Random Forest lebih stabil dalam menangani variasi fitur pose tubuh dibandingkan metode lainnya."*
    *   **Kutipan tentang Kekurangan KNN (Hal. 9):** *"Ketergantungan pada kedekatan jarak ini menyebabkan KNN mudah mengalami kesalahan klasifikasi pada pose duduk yang kompleks atau bervariasi."*
