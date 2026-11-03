@@ -47,7 +47,7 @@ Berikut adalah 5 algoritma klasifikasi yang paling sering jadi andalan untuk ris
 ---
 
 ## 📚 Referensi Akademis (2022 - 2026)
-Di bawah ini adalah daftar referensi jurnal / prosiding *open-access* (dapat diakses gratis secara publik) yang dikutip dalam penjelasan di atas. Sangat valid untuk kalian gunakan sebagai daftar pustaka:
+Di bawah ini adalah daftar referensi jurnal / prosiding yang dikutip dalam penjelasan di atas. Sangat valid untuk kalian gunakan sebagai daftar pustaka:
 
 1. **Karim, A. A., Prasetyo, M. A., & Saputro, M. R. (2023).** *"Perbandingan Metode Random Forest, K-Nearest Neighbor, dan SVM Dalam Prediksi Akurasi Pertandingan Liga Italia"*. Prosiding Seminar Nasional Teknologi Dan Sains Tahun 2023, Vol. 2, Universitas Nusantara PGRI Kediri.
    *   **Kutipan tentang KNN (Hal. 378):** *"K-Nearest Neighbor atau disebut juga lazy learner (pembelajar yang malas) mengklasifikasikan data berdasarkan kemiripan atau kedekatan terhadap data lainnya."* 
