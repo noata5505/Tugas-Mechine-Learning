@@ -2,13 +2,11 @@
 
 Halo semuanya! Buat kalian yang sedang belajar atau mengambil mata kuliah/topik *Machine Learning* (ML), khususnya pada bab **Klasifikasi**, dokumen ini dirancang khusus untuk membahas secara ringkas apa itu klasifikasi, algoritma apa saja yang sering dipakai, apa *plus-minus* (kelebihan & kekurangan) masing-masing, serta kapan waktu yang tepat untuk menggunakannya (kecocokan data). 
 
-Semoga penjelasan dengan bahasa yang santai ini bisa membantu kalian lebih paham, ya!
-
 ---
 
 ## Apa itu Klasifikasi? 🤔
 Dalam dunia *Machine Learning*, klasifikasi adalah teknik dari *Supervised Learning* (pembelajaran yang punya label/kunci jawaban) yang bertugas untuk mengelompokkan atau menebak data baru ke dalam kategori tertentu. 
-*Contoh kasus:* Mesin memilah apakah sebuah email itu "Spam" atau "Bukan Spam", atau menebak apakah sebuah sentimen di Twitter itu "Positif" atau "Negatif".
+*Contoh kasus:* Mesin memilah apakah sebuah email itu "Spam" atau "Bukan Spam".
 
 Berikut adalah 5 algoritma klasifikasi yang paling sering jadi andalan untuk riset atau skripsi:
 
@@ -29,7 +27,7 @@ Berikut adalah 5 algoritma klasifikasi yang paling sering jadi andalan untuk ris
 ### 3. Random Forest (RF)
 *   **Gimana Cara Kerjanya?** RF menggunakan sistem gotong royong *(ensemble)*. Model ini menumbuhkan banyak sekali Pohon Keputusan (*Decision Tree*), lalu mengambil keputusan berdasarkan *voting* terbanyak dari pohon-pohon tersebut.
 *   **Kelebihan:** Sangat kebal terhadap *outlier* (data pencilan) dan jarang mengalami *overfitting* (terlalu menghafal data latih). *"Model ensemble seperti Random Forest lebih stabil dalam menangani variasi fitur ... dibandingkan metode lainnya"* (SEMNASA, 2025, hal. 8) [2].
-*   **Kekurangan:** Modelnya bertindak bak "kotak hitam" *(black box)*, sehingga kita agak susah kalau ditanya dosen kenapa algoritma ini mengambil keputusan A atau B (kurang *interpretable* dibandingkan Decision Tree tunggal).
+*   **Kekurangan:** Modelnya bertindak bak "kotak hitam" *(black box)*, sehingga kita agak susah menjelaskan algoritma ini mengambil keputusan A atau B (kurang *interpretable* dibandingkan Decision Tree tunggal).
 *   **Kecocokan Data:** Ini ibarat "senjata pamungkas". Cocok untuk dataset campuran berupa data tabular (baris & kolom tipe numerik maupun kategorikal) yang kotor, besar, dan memiliki banyak fitur kompleks.
 
 ### 4. Decision Tree (Pohon Keputusan)
