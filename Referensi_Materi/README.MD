@@ -1,6 +1,6 @@
 # Pengenalan Algoritma Klasifikasi di Machine Learning 🚀
 
-Halo semuanya! Buat kalian yang sedang belajar atau mengambil mata kuliah/topik *Machine Learning* (ML), khususnya pada bab **Klasifikasi**, dokumen ini dirancang khusus untuk kalian. Kita akan membahas secara ringkas apa itu klasifikasi, algoritma apa saja yang sering dipakai, apa *plus-minus* (kelebihan & kekurangan) masing-masing, serta kapan waktu yang tepat untuk menggunakannya (kecocokan data). 
+Halo semuanya! Buat kalian yang sedang belajar atau mengambil mata kuliah/topik *Machine Learning* (ML), khususnya pada bab **Klasifikasi**, dokumen ini dirancang khusus untuk membahas secara ringkas apa itu klasifikasi, algoritma apa saja yang sering dipakai, apa *plus-minus* (kelebihan & kekurangan) masing-masing, serta kapan waktu yang tepat untuk menggunakannya (kecocokan data). 
 
 Semoga penjelasan dengan bahasa yang santai ini bisa membantu kalian lebih paham, ya!
 
